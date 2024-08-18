@@ -393,6 +393,8 @@ button{
     display: flex;
     flex-direction: column;
     gap: 6px;
+    max-width:36ch;
+    min-width:34ch;
 }
 .people-name{
     color: #4747B3;
