@@ -11,7 +11,13 @@
     display: flex;
     justify-content: space-evenly;
 }
+@media only screen and (max-width:860px){
+companycontainer{
+    margin-top: 20px;
+    height:0px;
+}
 
+}
 .left{
     width: 300px;
     height: 100px;
