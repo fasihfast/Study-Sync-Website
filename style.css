@@ -702,10 +702,12 @@ footer{
         width: 60%;
         height: 192px;
         padding: 0px 5px;
+        width:fit-content;
     }
     .companycontainer{
         height: 300px;
         justify-content: center;
         align-items: center;
+        margin-left:64px;
     }
 }
