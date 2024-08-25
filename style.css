@@ -297,7 +297,7 @@ button{
         max-width:100%;
         min-width:100%;
        height: 100%;
-        margin-left: 64px;
+        margin-left: 40px;
      .people-container{
      margin-left:64px;
      }
@@ -467,7 +467,6 @@ button{
 .newsletter-img{
     width: 100%;
     height: 100%;
-    /* object-fit: fill; */
 
 }
 .newsletter-right{
@@ -524,7 +523,7 @@ button{
         flex-wrap: wrap;
     }
     .newsletter{
-    margin-left:64px;
+    margin-left:6px;
     }
     .footer{
     margin-left:64px;
@@ -708,7 +707,7 @@ footer{
         height: 300px;
         justify-content: center;
         align-items: center;
-        margin-left:64px;
+        margin-left:40px;
         margin-top:202px;
     }
 }
